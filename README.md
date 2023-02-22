@@ -1,1 +1,1 @@
-# (Autonomous rover navigation in uncertain environments)
+# Autonomous rover navigation in uncertain environments
